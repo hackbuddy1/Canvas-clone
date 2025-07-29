@@ -8,7 +8,7 @@ This is a front-end UI clone of the Canvas Learning Management System, built as 
 
 ## 🚀 Live Demo
 
-[Link to your deployed site on Vercel or Netlify]
+https://canvas-clone-tau.vercel.app/
 
 -----
 
