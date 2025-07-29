@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "instructor": "Jane Doe",
+    "progress": 65
+  },
+  {
+    "id": 2,
+    "title": "Advanced CSS",
+    "instructor": "John Smith",
+    "progress": 80
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design Principles",
+    "instructor": "Emily White",
+    "progress": 45
+  },
+  {
+    "id": 4,
+    "title": "State Management with Redux",
+    "instructor": "Chris Green",
+    "progress": 90
+  },
+  {
+    "id": 5,
+    "title": "Responsive Web Design",
+    "instructor": "Michael Brown",
+    "progress": 75
+  },
+  {
+    "id": 6,
+    "title": "JavaScript Fundamentals",
+    "instructor": "Sarah Miller",
+    "progress": 100
+  }
+]

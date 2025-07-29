@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "task": "Submit React Hooks assignment",
+    "dueDate": "2025-07-28"
+  },
+  {
+    "id": 2,
+    "task": "Read Chapter 5 of 'Eloquent JavaScript'",
+    "dueDate": "2025-07-29"
+  },
+  {
+    "id": 3,
+    "task": "Peer review teammate's code",
+    "dueDate": "2025-07-30"
+  }
+]
